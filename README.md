@@ -2,7 +2,7 @@
 
 pytorch_tiramisu is a python package that adds [Tiramisu Compiler](http://tiramisu-compiler.org/) as a compiler backend to [PyTorch Deep Learning Framework](https://pytorch.org/). 
 
-pytorch_tiramisu offers two mode of utilization: 
+pytorch_tiramisu offers two modes of utilization: 
 <img src="https://zupimages.net/up/20/22/fx6v.png" />
 
 1. Mode 1: The first mode is dedicated to non expert users that want to benefit from directly laveraging the compiler stack. The user will be using pre-compiled operators. (This mode is only available for CPUs). **This mode does not require the installation of Tiramisu.** 
